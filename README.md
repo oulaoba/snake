@@ -15,7 +15,7 @@
 ├── src/
 │   ├── main.rs
 │   ├──snake_game/
-│   │  ├── game.rs.rs
+│   │  ├── game.rs
 │   │  └── mod.rs
 │   ├──snake_snake/
 │   │   ├── snake.rs
